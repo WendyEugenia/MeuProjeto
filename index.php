@@ -105,11 +105,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </form>
             </div>
         </section>
-        <section id="endereco" class="section">
+        <section id="endereco" class="section-mapa">
             <h2 class="section-title">Localização</h2>
             <div class="map-container">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14641.923507613903!2d-46.40689828342424!3d-23.44311266654923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6264f501b0fb%3A0x584130ab90f2a29b!2sR.%20Cinco-A%2C%2089%20-%20Jardim%20Nova%20Cidade%2C%20Guarulhos%20-%20SP%2C%2007252-460!5e0!3m2!1spt-BR!2sbr!4v1716004423390!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                <p class="section-texto">Rua cinco A, 89- Jd. Nova Cidade, Guarulhos, SP, Brazil</p>
+                <p class="section-mapa">Rua cinco A, 89- Jd. Nova Cidade, Guarulhos, SP, Brazil</p>
             </div>
         </section>
     </main>

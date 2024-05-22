@@ -31,5 +31,8 @@ document.getElementById('contact-form').addEventListener('submit', function(even
         document.getElementById('success-message').textContent = 'Erro ao enviar os dados';
         document.getElementById('success-message').style.color = 'red';
     });
+
+
+    
 });
 
