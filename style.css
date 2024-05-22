@@ -75,10 +75,11 @@ body {
     background-color: #EBEBEB;
     margin-bottom: 50px;
 
+
  }
 
 .section-culto{
-    margin: 90px;
+    margin: 50px;
     border-radius: 20px;
     border: solid 1px;
 }
@@ -161,10 +162,10 @@ body {
 
 .caixa-formulario {
     background-color: #fff;
-    padding: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
     border: 2px solid #EBEBEB;
     border-radius: 10px;
-    max-width: 500px;
+    max-width: 450px;
     width: 80%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   
@@ -174,7 +175,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding: 17px 23px 17px 17px;
+    padding: 10px 27px 10px 15px;
 }
 
 .form-input {
